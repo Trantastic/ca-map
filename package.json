@@ -1,0 +1,23 @@
+{
+  "name": "ca-map",
+  "version": "1.0.0",
+  "description": "Mapping California using d3js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trantastic/ca-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trantastic/ca-map/issues"
+  },
+  "homepage": "https://github.com/Trantastic/ca-map#readme",
+  "dependencies": {
+    "d3-geo-projection": "^2.4.0",
+    "shapefile": "^0.6.6"
+  }
+}
